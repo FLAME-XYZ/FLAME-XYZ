@@ -11,8 +11,8 @@
 │ └[+] Status    : Unknown
 └─
 ┌─
-│ ┌[!] Programmer Menengah
-│ ├[+] Program : Python Dll
+│ ┌[!] Programmer IMPHNEN
+│ ├[+] Title : Web Developer
 │ ├[+] Hobi : Main Game
 └─
 ```
