@@ -5,15 +5,15 @@
 ┌─
 │ ┌[!] Media Sosial Me 🌍🌍
 │ ├[+] Developer : Joo X Nano [ FLAME-XYZ ]
-│ ├[+] Team Code : XTC CODE & XNXCODE
+│ ├[+] Team Code : XTC CODE & XNXS CODE
 │ ├[+] YouTube   : False
-│ ├[+] spekulasi : trader & investor
-│ └[+] Status    : Unknown
+│ ├[+] Work experience : trader & investor
+│ └[+] Status    : Founder-Dev F.F.A Development
 └─
 ┌─
-│ ┌[!] Programmer IMPHNEN
+│ ┌[!] Programmer member IMPHNEN
 │ ├[+] Title : Web Developer
-│ ├[+] Hobi : Main Game
+│ ├[+] Hobi : Main Game & Turu Dapat Uang
 └─
 ```
 
