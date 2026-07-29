@@ -3,11 +3,11 @@
 
 ```python
 ┌─
-│ ┌[!] Media Sosial Me 🌍🌍
+│ ┌[!] Build Your Projects 🌍🌍
 │ ├[+] Developer : Joo X Nano [ FLAME-XYZ ]
 │ ├[+] Team Code : XTC CODE & XNXS CODE
 │ ├[+] YouTube   : False
-│ ├[+] Work experience : trader & investor
+│ ├[+] Experience : trader & investor
 │ └[+] Status    : Founder-Dev F.F.A Development
 └─
 ┌─
